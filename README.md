@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Umar Imam
+# 👋 My Name is Umar Imam Abdullahi
 
 🔐 Cybersecurity Analyst (in training) | Aspiring Cloud Security Engineer
 
