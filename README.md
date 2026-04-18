@@ -37,6 +37,5 @@
 
 ---
 
-⭐ Always learning. Always improving.
-# about-me
-This is my profile
+ ## Always learning. Always improving.
+
